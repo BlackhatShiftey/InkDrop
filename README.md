@@ -187,6 +187,14 @@ InkDrop includes a React-based signature management dashboard (`assets/signature
 - **Live preview** — See how your signature looks on a document thumbnail
 - **One-click export** — Download clean PNG ready for insertion
 
+### Launching the Dashboard
+
+To run the React Dashboard locally without a build system or external artifacts:
+1. Open the included `index.html` file in any modern web browser.
+2. Alternatively, serve it via a local web server (e.g., `python -m http.server 8080` and navigate to `http://localhost:8080`).
+
+The `index.html` file acts as a standalone wrapper that pulls in React via CDN and compiles the `assets/signature-manager.jsx` component directly in your browser.
+
 ---
 
 ## Project Structure
