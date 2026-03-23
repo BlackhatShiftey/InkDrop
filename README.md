@@ -19,6 +19,7 @@
 
 *InkDrop takes a handwritten signature — drawn, scanned, or photographed — cleans it, and drops it into any PDF, Word document, or PowerPoint presentation. Just add the SKILL.md file, and drop it into any Model. Designed for Claude, Repurposed for everyone.*
 
+Drop it in Claude > artifacts : Other LLMs > Webpage Socket = Index.html
 <br>
 
 </div>
@@ -29,13 +30,15 @@
 
 <div align="center">
 
-**Signature Library** — manage and download all your saved signatures
-
-![InkDrop Dashboard — Library](screenshots/dashboard-library.png)
 
 **Draw Tab** — draw your signature directly in the browser
 
 ![InkDrop Dashboard — Draw](screenshots/dashboard-draw.png)
+
+
+**Signature Library** — manage and download all your saved signatures
+
+![InkDrop Dashboard — Library](screenshots/dashboard-library.png)
 
 </div>
 
