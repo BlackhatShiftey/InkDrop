@@ -25,6 +25,22 @@
 
 ---
 
+## Screenshots
+
+<div align="center">
+
+**Signature Library** — manage and download all your saved signatures
+
+![InkDrop Dashboard — Library](screenshots/dashboard-library.png)
+
+**Draw Tab** — draw your signature directly in the browser
+
+![InkDrop Dashboard — Draw](screenshots/dashboard-draw.png)
+
+</div>
+
+---
+
 ## The Problem
 
 You've got a contract, letter, or form that needs your signature. You could print it, sign it, scan it back. Or you could just **InkDrop it**.
