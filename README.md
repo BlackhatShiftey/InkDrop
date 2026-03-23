@@ -17,7 +17,7 @@
 
 <br>
 
-*InkDrop takes a handwritten signature — drawn, scanned, or photographed — cleans it, and drops it into any PDF, Word document, or PowerPoint presentation. Designed for humans and AI assistants alike.*
+*InkDrop takes a handwritten signature — drawn, scanned, or photographed — cleans it, and drops it into any PDF, Word document, or PowerPoint presentation. Just add the SKILL.md file, and drop it into any Model. Designed for Claude, Repurposed for everyone.*
 
 <br>
 
